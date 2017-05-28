@@ -25,5 +25,10 @@ def main():
         pygame.display.update()
         clock.tick(15)
 
+def terminate():
+
+    pygame.quit()
+    sys.exit()	
+	
 if __name__ == '__min__':
 	main()
