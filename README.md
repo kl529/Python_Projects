@@ -34,13 +34,13 @@
 > > - ENTER : 확인
 
 > > - Menu
-> > <img src="http://postfiles5.naver.net/MjAxNzA2MTVfMjA3/MDAxNDk3NTA1MDgyODUw.Qai8x3AnahoneiMawn1tPj0tMjA3VPbyDUC04cOhghog.ZqQCZTT97sOBnWfYmLusy95PfCPyNyJ5p5O-Sgfp6q4g.PNG.kl529/Menu.png?type=w2" height = "200" width = "440">
+> > <img src="http://postfiles5.naver.net/MjAxNzA2MTVfMjA3/MDAxNDk3NTA1MDgyODUw.Qai8x3AnahoneiMawn1tPj0tMjA3VPbyDUC04cOhghog.ZqQCZTT97sOBnWfYmLusy95PfCPyNyJ5p5O-Sgfp6q4g.PNG.kl529/Menu.png?type=w2" height = "440" width = "300">
 
 > > - Info
-> > <img src="http://postfiles11.naver.net/MjAxNzA2MTVfMjIw/MDAxNDk3NTA1MDgyNjY2.rWAtOV-FoBoHRwN158nZ0u6nFF5jQRNlM94o9u3xhPMg.ZxcFZrOxOvmtFXk4njWYN9hEIj7Tck6bsOehJhP5LWsg.PNG.kl529/info.png?type=w2" height = "200" width = "440"> 
+> > <img src="http://postfiles11.naver.net/MjAxNzA2MTVfMjIw/MDAxNDk3NTA1MDgyNjY2.rWAtOV-FoBoHRwN158nZ0u6nFF5jQRNlM94o9u3xhPMg.ZxcFZrOxOvmtFXk4njWYN9hEIj7Tck6bsOehJhP5LWsg.PNG.kl529/info.png?type=w2" height = "440" width = "300"> 
 
 > > - Play
-> > <img src="http://postfiles9.naver.net/MjAxNzA2MTVfMTQ5/MDAxNDk3NTA1MDgzMDYy.pFYWpHczGZRPGZ5UcrRWlivrxpCQUm0UPMlBMv9OoUUg.oe6N4b7LZuXM85qq59VmLwer7zMHti3r1DugB42SfcQg.PNG.kl529/play.png?type=w2" height = "200" width = "440"> 
+> > <img src="http://postfiles9.naver.net/MjAxNzA2MTVfMTQ5/MDAxNDk3NTA1MDgzMDYy.pFYWpHczGZRPGZ5UcrRWlivrxpCQUm0UPMlBMv9OoUUg.oe6N4b7LZuXM85qq59VmLwer7zMHti3r1DugB42SfcQg.PNG.kl529/play.png?type=w2" height = "440" width = "300"> 
 
 > > - Gameover
-> > <img src="http://postfiles7.naver.net/MjAxNzA2MTVfMTEy/MDAxNDk3NTA1MDgyMzM3.AQqT6OuUBbb2tZkme4RUHHmbxrQMiPiJ0r0P3gEGMtQg.lCfghXr_OAlYGfp1xVG-iAt2vNFMAqVT3Z_KCBjI5mMg.PNG.kl529/gameover.png?type=w2" height = "200" width = "440"> 
+> > <img src="http://postfiles7.naver.net/MjAxNzA2MTVfMTEy/MDAxNDk3NTA1MDgyMzM3.AQqT6OuUBbb2tZkme4RUHHmbxrQMiPiJ0r0P3gEGMtQg.lCfghXr_OAlYGfp1xVG-iAt2vNFMAqVT3Z_KCBjI5mMg.PNG.kl529/gameover.png?type=w2" height = "440" width = "300"> 
