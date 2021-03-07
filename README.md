@@ -16,9 +16,9 @@ SR No   | Project
 1 | [Tetris Game](https://github.com/Python-World/python-mini-projects/tree/master/projects/Hello) 
 2 | [Matgo Game (Korean Traditonal Card Game)](https://github.com/Python-World/python-mini-projects/tree/master/projects/Convert_JSON_to_CSV)
 3 | [Simple Algorithms](https://github.com/Python-World/python-mini-projects/tree/master/projects/Random_password_generator) 
-4 | [morpheme_analysis](https://github.com/Python-World/python-mini-projects/tree/master/projects/Instagram_profile)
+4 | [Morpheme_analysis](https://github.com/Python-World/python-mini-projects/tree/master/projects/Instagram_profile)
 5 | [Kaggle](https://github.com/Python-World/python-mini-projects/tree/master/projects/String_search_from_multiple_files)
-6 | [Crawling](https://github.com/Python-World/python-mini-projects/tree/master/projects/All_links_from_given_webpage)
+6 | [Crawling(BS, Selenium)](https://github.com/Python-World/python-mini-projects/tree/master/projects/All_links_from_given_webpage)
 7 | Not Yet❗
 8 | Not Yet❗
 9 | Not Yet❗
