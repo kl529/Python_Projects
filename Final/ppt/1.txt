@@ -1,0 +1,20 @@
+1.matgo.py - hand,ai,card,view,field,turn,score
+2.matgoai - card,hand
+3.matgocard - 없음
+4.matgofield - hand,card,view
+5.matgohand - view,card
+6.matgoscore - 없음
+7.matgoturn - score,hand,ai,field,card
+8.matgoview - 없음
+
+
+constructor - Class(안에 인수 있는것 suit,rank,face_up = Ture)
+property - @property안에 있는것 
+methods - 메소드 
+static method - 스테틱메소드 종류 all
+attribute - self
+
+
+main()
+
+제일 위에 칸은 class 이름
