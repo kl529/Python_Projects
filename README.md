@@ -2,7 +2,7 @@
 
 [![forthebadge](https://forthebadge.com/images/badges/made-with-python.svg)](https://forthebadge.com)
 
-# Python-Projects (Not Completed)
+# Python-Projects
 
 Karice's Mini Python Projects (2016 ~ ) 
 
